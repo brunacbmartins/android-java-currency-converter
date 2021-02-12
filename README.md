@@ -1,5 +1,5 @@
-# Real(Brazilian Currency) to Dollars Converter App
-![home](https://user-images.githubusercontent.com/54600376/107680553-c1e9c680-6c7c-11eb-9248-ad2d23e14a58.JPG)![done](https://user-images.githubusercontent.com/54600376/107680547-c0b89980-6c7c-11eb-8693-1197ab452fa7.JPG)
+# Dollars to Real(Brazilian Currency) Converter App
+![1](https://user-images.githubusercontent.com/54600376/107769115-40df0d80-6d16-11eb-98cb-9b72c200273e.JPG)![2](https://user-images.githubusercontent.com/54600376/107769119-42103a80-6d16-11eb-8e04-653c0f3a465c.JPG)
 
 - All in Java
 - Simple converter app
