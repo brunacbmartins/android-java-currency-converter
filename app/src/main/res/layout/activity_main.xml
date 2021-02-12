@@ -43,7 +43,7 @@
         android:layout_marginTop="45dp"
         android:layout_marginEnd="30dp"
         android:ems="10"
-        android:hint="Valor em R$"
+        android:hint="Valor em $"
         android:inputType="numberDecimal"
         android:textColor="@color/black"
         android:textStyle="italic"

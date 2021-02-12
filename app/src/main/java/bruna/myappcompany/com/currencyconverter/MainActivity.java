@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         double amountInDollarsDouble = amountInRealDouble * 5.53;
         String amountInDollarsString = String.format("%.2f",amountInDollarsDouble);
 
-        Toast.makeText(this, "O valor de R$"+ amountInReal + " é $" + amountInDollarsString + " na moeda americana.", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "O valor de $"+ amountInReal + " é que vale a R$" + amountInDollarsString + " no real brasileiro.", Toast.LENGTH_LONG).show();
 
         Log.i("Amount in dollars", amountInDollarsString);
     }
